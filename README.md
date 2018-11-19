@@ -19,4 +19,6 @@ Webpack Configuration for SASS, Images and also JS Files
   -	`webpack-cli`
 
 ## Installation scripts
-  >	`npm install style-loader css-loader sass-loader file-loader cssnano node-sass postcss-loader postcss-preset-env cross-env mini-css-extract-plugin webpack webpack-cli --save-dev`
+	```
+	npm install style-loader css-loader sass-loader file-loader cssnano node-sass postcss-loader postcss-preset-env cross-env mini-css-extract-plugin webpack webpack-cli --save-dev
+	```
