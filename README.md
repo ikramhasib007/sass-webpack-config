@@ -1,10 +1,10 @@
 # SASS Webpack Configuration
 Webpack Configuration for SASS, Images and also JS Files
 
-##	Require 
+## Require 
 	-	Node.js install on your PC 
 	
-## Dev Dependencies
+## Require Dev Dependencies
 	-	`style-loader` for loading your style that would included on html page with embaded. 
 	-	`css-loader` 
 	-	`sass-loader`
