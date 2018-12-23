@@ -24,3 +24,8 @@ Webpack Configuration for SASS, Images and also JS Files
 
 ## Useful links
   >	[mini-css-extract-plugin](https://webpack.js.org/plugins/mini-css-extract-plugin/)
+
+## Start development
+  - `npm run dev` For developerment
+  - entry point `scss/main.scss`
+  - `npm run build` For production
